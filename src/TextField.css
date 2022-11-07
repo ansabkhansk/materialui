@@ -1,0 +1,11 @@
+.MuiOutlinedInput-notchedOutline {
+    border-color: #1d72e7 !important;
+}
+
+.MuiInputLabel-shrink{
+    transform: translate(14px, 2px) scale(0.75) !important;
+}
+
+.MuiInputBase-root legend {
+    max-width: 0.01px !important;
+}
