@@ -1,4 +1,4 @@
-# material_ui
+# materialui
 Customization of Outlined TextField
 
 Normal
